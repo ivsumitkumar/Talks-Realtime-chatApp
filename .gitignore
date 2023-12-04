@@ -1,0 +1,8 @@
+# Environment
+.venv/
+
+# Node Modules
+Talks-frontend/node_modules
+
+# VS code settings
+Talks-frontend/.vscode
